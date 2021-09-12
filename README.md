@@ -6,8 +6,6 @@
 
 ## Introduction
 
-## Dataset
-
 ## Data Visualization
 
 <img src = '../main/Data & Images/Cumulative Daily Death.png' />
