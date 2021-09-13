@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/compare-time-series-predictions-of-covid-19-deaths-using-sarimax-facebook-prophet-neural-network-c6f6f26b2582)
 
 ## Problem Statement
 
